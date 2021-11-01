@@ -93,7 +93,7 @@ namespace GUI_QLBH
                 frmTrangchu.Show();
             }
         }
-
+        //chào add
         private void btn_xoamail_Click(object sender, EventArgs e)
         {
             if (ls_email.SelectedIndex != -1)
